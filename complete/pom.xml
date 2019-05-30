@@ -34,7 +34,7 @@
     </dependencies>
     <distributionManagement>
    <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>sample_snap</id>
       <url>http://54.156.74.190:8081/repository/sample_snap</url>
    </snapshotRepository>
 </distributionManagement>
