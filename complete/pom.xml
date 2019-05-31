@@ -34,7 +34,7 @@
     </dependencies>
     <distributionManagement>
    <snapshotRepository>
-      <id>sample_snap</id>
+      <id>gs-spring-boot</id>
       <url>http://54.156.74.190:8082/nexus/content/repositories/releases</url>
    </snapshotRepository>
 </distributionManagement>
