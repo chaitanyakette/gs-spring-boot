@@ -33,11 +33,11 @@
         <!-- end::tests[] -->
     </dependencies>
     <distributionManagement>
-   <snapshotRepository>
-      <id>gs-spring-boot</id>
-      <url>http://54.156.74.190:8082/nexus/content/repositories/releases</url>
-   </snapshotRepository>
-</distributionManagement>
+     <repository>
+       <id>gs-spring-boot</id>
+        <url>http://54.156.74.190:8082/nexus/content/repositories/releases</url>
+     </repository>
+  </distributionManagement>
 
     <properties>
         <java.version>1.8</java.version>
