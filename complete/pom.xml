@@ -34,7 +34,7 @@
     </dependencies>
     <distributionManagement>
      <repository>
-       <id>gs-spring-boot</id>
+       <id>releases</id>
         <url>http://54.156.74.190:8082/nexus/content/repositories/releases</url>
      </repository>
   </distributionManagement>
