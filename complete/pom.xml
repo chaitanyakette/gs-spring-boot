@@ -62,7 +62,7 @@
          <name>Releases</name>
         <url>http://54.152.44.13:8081/nexus/content/repositories/releases/</url>
      </repository>
-         <repository>
+         
      <snapshotRepository>
        <id>snapshots</id>
         <name>Snapshots</name>
